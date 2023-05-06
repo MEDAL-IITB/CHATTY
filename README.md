@@ -1,4 +1,4 @@
-# CHATTY implemneted in PyTorch
+# CHATTY implemeneted in PyTorch
 
 ## Prerequisites
 - pytorch = 1.0.1 
