@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chatty-coupled-holistic-adversarial-transport/unsupervised-domain-adaptation-on-fhist)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-fhist?p=chatty-coupled-holistic-adversarial-transport)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chatty-coupled-holistic-adversarial-transport/unsupervised-domain-adaptation-on-office-31)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-office-31?p=chatty-coupled-holistic-adversarial-transport)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chatty-coupled-holistic-adversarial-transport/unsupervised-domain-adaptation-on-office-home)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-office-home?p=chatty-coupled-holistic-adversarial-transport)
 # CHATTY implemeneted in PyTorch
 
 ## Prerequisites
